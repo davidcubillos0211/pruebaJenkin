@@ -1,0 +1,18 @@
+    agent any
+
+    stages {
+        stage('a') {
+            steps {
+                echo 'aaaAaAaaAaAAaaaaaaaAAAAAA World'
+            }
+        stage('Hello') {
+            steps {
+                echo 'tuuuuuuu'
+            
+        stage('Hello') {
+            steps {
+                echo 'hasta luega'
+            }
+        }
+    }
+}
